@@ -26,7 +26,8 @@ and a button to be submitted , finally giving the output in the output section.
 
 I have also added a navbar which different page to navigate.
 
-Also I have added socail link to the pages.
+ALso I have added socail Link to the pages.
+
 ----------
 Contact.html :
 
@@ -35,13 +36,11 @@ I have given two inputs, in one of them iam taking the email to reponse.
 
 I have also added a navbar which different page to navigate.
 
-Also I have added socail link to the pages.
+ALso I have added socail Link to the pages.
 ------------
-test.html/test.js :
+Test.html/test.js :
 
 Here I have used test.html and test.js to pass my 3 test cases.
 ------------
-
-
 
 THANK YOU VERY MUCH !!!!!
