@@ -1,9 +1,10 @@
 Welcome !!
 --------------------
-There are total 3 pages
+There are total 4 pages
 1)anurag.html
 2)cal.html
 3)contact.html
+4)Test.html/test.js
 ------------
 anurag.html : 
 
@@ -36,4 +37,11 @@ I have also added a navbar which different page to navigate.
 
 Also I have added socail link to the pages.
 ------------
-THANK YOU VERY MUCH
+test.html/test.js :
+
+Here I have used test.html and test.js to pass my 3 test cases.
+------------
+
+
+
+THANK YOU VERY MUCH !!!!!
