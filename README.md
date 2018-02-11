@@ -32,14 +32,12 @@ ALso I have added socail Link to the pages.
 Contact.html :
 
 In this page iam taking feedback and queries from the people to reponse them back.
-I have given two inputs, in one of them iam taking the email to reponse.
+I have given two inputs, in one of them iam taking the email to reponse.Also I have added socail Link to the pages.
 
 I have also added a navbar which different page to navigate.
 
-ALso I have added socail Link to the pages.
 ------------
 Test.html/test.js :
-
 Here I have used test.html and test.js to pass my 3 test cases.
 ------------
 
